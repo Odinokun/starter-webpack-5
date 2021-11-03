@@ -2,5 +2,11 @@
   "devDependencies": {
     "webpack": "^5.61.0",
     "webpack-cli": "^4.9.1"
-  }
+  },
+  "name": "starter-webpack-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Odinokun/starter-webpack-5.git",
+  "author": "Odinokun <odinokun@gmail.com>",
+  "license": "MIT"
 }
