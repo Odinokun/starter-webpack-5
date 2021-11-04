@@ -16,7 +16,7 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _person__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./person */ \"./src/person.js\");\n\n\nconst Elena = new _person__WEBPACK_IMPORTED_MODULE_0__[\"default\"]('Elena', 30, 'Ukraine');\n\nconsole.log(Elena);\n\n//# sourceURL=webpack://starter-webpack-5/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _person__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./person */ \"./src/person.js\");\n\n\nconst Elenaa = new _person__WEBPACK_IMPORTED_MODULE_0__[\"default\"]('Elena', 30, 'Ukraine');\n\nconsole.log(Elenaa);\n\n//# sourceURL=webpack://starter-webpack-5/./src/index.js?");
 
 /***/ }),
 
